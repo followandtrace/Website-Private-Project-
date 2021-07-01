@@ -1,0 +1,77 @@
+html {
+    height: 100%;
+}
+
+body {
+    background-color: rgba(0, 0, 0, 0.801);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.XD {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+}
+
+header {
+
+    height: 118px;
+    text-align: center;
+
+}
+
+nav {
+    background-color: rgba(182, 165, 165, 0.363);
+    text-align: center;
+    padding-top: 14px;
+    padding-bottom: 14px;
+}
+
+main {
+    height: 400px;
+    text-align: center;
+    padding-top: 80px;
+}
+
+footer {
+    background-color: rgba(0, 0, 0, 0);
+    padding-top: 50px;  
+    padding-bottom: 50px;
+}
+
+h1 {
+    font-size: 40px;
+    color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif; 
+}
+
+a {
+    color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+nav a {
+    text-decoration: none;
+    font-size: 12px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+footer p {
+    font-size: 10px;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.418);
+}
+
+.maps {
+    padding-bottom: 100px;
+}
